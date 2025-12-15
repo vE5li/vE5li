@@ -1,8 +1,8 @@
 # Hello there
 
-*To give a general sense of what you will find on my GitHub, here are some opinions:*
-*Rust is cool, Nix is amazing, Neovim is imperfect but great, and keyboards are a fun hobby.*
-*If you agree with one of those statements, you are also cool. Check out my repositories!*
+To give a general sense of what you will find on my GitHub, here are some opinions:
+Rust is cool, Nix is amazing, Neovim is imperfect but better than the alternatives, and keyboards are a fun hobby.
+If you agree with one of those statements, you are also cool. Check out my repositories!
 
 ## My repositories
 
