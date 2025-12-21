@@ -19,6 +19,7 @@ If you agree with one of those statements, you are also cool. Check out my repos
 
 - [**infrastructure**](https://github.com/vE5li/infrastructure) - My home infrastructure, including device configuration
     - *NixOS configuration:*
+        - [**lan-pam**](https://github.com/vE5li/lan-pam) - PAM for logging in to my machines using trusted devices on my network (such as my phone)
         - [**cross-cursor**](https://github.com/vE5li/cross-cursor) - A single cross-shaped cursor for my graphical environment
         - [**anime-foot**](https://github.com/vE5li/anime-foot) - Fork of [foot](https://codeberg.org/dnkl/foot) with an anime girl in the background. That's it
     - *Neovim configuration:*
